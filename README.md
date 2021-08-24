@@ -1,7 +1,4 @@
 School management system is designed with php. 
-To view this app on your browser, open localhost/phpmyadmin. Create a database 'sms'.
-Then go to 'db' and import the sql files
-Once done, visit admin portal http://localhost/smartschool.com/admin/
-username: admin
-password: admin
+To solve most of the current issues in the primary/secondary educational system when it student/pupils management,
+Result managment and also keeping records of payment. 
 
